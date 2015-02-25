@@ -1,0 +1,26 @@
+{
+  "name": "virtdom",
+  "version": "0.0.1",
+  "description": "Very basic virtual DOM",
+  "author": {
+    "name": "Jesse Hallett",
+    "email": "jesse@sitr.us",
+    "url": "http://sitr.us/"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://github.com/hallettj/peer/blob/master/LICENSE-Apache-2.0"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-react": "^2.0.0",
+    "vinyl-transform": "^1.0.0"
+  },
+  "dependencies": {}
+}

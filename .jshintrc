@@ -1,0 +1,9 @@
+{
+    "node": true,
+    "laxcomma": true,
+    "undef": true,
+    "unused": true,
+    "latedef": "nofunc",
+    "predef": [
+    ]
+}

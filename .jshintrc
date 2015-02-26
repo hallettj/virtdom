@@ -1,8 +1,11 @@
 {
+    "browser": true,
     "node": true,
+    "esnext": true,
+    "asi": true,
     "laxcomma": true,
     "undef": true,
-    "unused": true,
+    "unused": false,
     "latedef": "nofunc",
     "predef": [
     ]

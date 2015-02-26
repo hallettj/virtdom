@@ -22,5 +22,7 @@
     "gulp-react": "^2.0.0",
     "vinyl-transform": "^1.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
 }
